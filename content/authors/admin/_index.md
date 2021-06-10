@@ -6,7 +6,7 @@ title: Simran Kaur
 superuser: true
 
 # Role/position/tagline
-role: Bachelor of Science in Artificial Intelligence (Expected Graduation: May 2022)
+role: Bachelor of Science in Artificial Intelligence (May 2022)
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,6 @@ organizations:
   url: https://https://www.cs.cmu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hi there! I'm Simran, a rising Senior at Carnegie Mellon University's School of Computer Science. I am an undergraduate student majoring in AI at CMU’s School of Computer Science. My research interests include adversarial robustness, optimization, and generalization. In my spare time, I enjoy running, painting, and baking biscotti.
 
 # Interests to show in About widget
 interests:
@@ -55,3 +54,11 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+
+Hi there! I'm Simran, a rising Senior at Carnegie Mellon University's School of Computer Science. 
+
+On campus, I am an undergraduate researcher at ACMI Lab and serve as head teaching assistant for 15-281 Artificial Intelligence Representation & Problem Solving.
+
+In my spare time, I enjoy running, painting, and baking biscotti!
+
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}
