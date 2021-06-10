@@ -56,7 +56,7 @@ experience:
     location: Pittsburgh, PA
     date_start: '2020-05-01'
     date_end: '2020-08-01'
-    description:  lead weekly recitations of 30 studen    ts; develop assignments and recitations; hold weekly     office hours
+    description:  lead weekly recitations of 30 students; develop assignments and recitations; hold weekly     office hours
 
 design:
   columns: '2'
