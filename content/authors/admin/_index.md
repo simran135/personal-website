@@ -39,7 +39,7 @@ social:
   link: https://scholar.google.com/citations?user=AMHNjTIAAAAJ&hl=en&authuser=2
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/kaur-s
+  link: http://www.linkedin.com/in/kaur-s
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
