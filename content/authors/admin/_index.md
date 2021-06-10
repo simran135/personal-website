@@ -1,60 +1,46 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Simran Kaur
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Bachelor of Science - B.S. Artificial Intelligence (Expected Graduation: May 2022)
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Carnegie Mellon University School of Computer Science
+  url: https://https://www.cs.cmu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Hi there! I'm Simran, a rising Senior at Carnegie Mellon University's School of Computer Science. I am an undergraduate student majoring in AI at CMU’s School of Computer Science. My research interests include adversarial robustness, optimization, and generalization. In my spare time, I enjoy running, painting, and baking biscotti.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Adversarial robustness
+- Optimization
+- Generalization
+- Clinical NLP
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: B.S. Artificial Intelligence
+    institution: Carnegie Mellon University
+    year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.com/citations?user=AMHNjTIAAAAJ&hl=en&authuser=2
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: www.linkedin.com/in/kaur-s
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
