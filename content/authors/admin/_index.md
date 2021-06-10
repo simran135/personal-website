@@ -55,6 +55,10 @@ email: ""
 highlight_name: true
 ---
 
+
+
+
+
 Hi there! I'm Simran, a rising Senior at Carnegie Mellon University's School of Computer Science. 
 
 On campus, I am an undergraduate researcher at ACMI Lab and serve as head teaching assistant for 15-281 Artificial Intelligence Representation & Problem Solving.
