@@ -6,7 +6,7 @@ title: Simran Kaur
 superuser: true
 
 # Role/position/tagline
-role: Bachelor of Science - B.S. Artificial Intelligence (Expected Graduation: May 2022)
+role: Bachelor of Science in Artificial Intelligence (Expected Graduation: May 2022)
 
 # Organizations/Affiliations to show in About widget
 organizations:
