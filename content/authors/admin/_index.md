@@ -52,7 +52,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
 I'm a rising Senior at Carnegie Mellon University's School of Computer Science majoring in Artificial Intelligence.  
