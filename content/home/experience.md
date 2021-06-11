@@ -47,12 +47,14 @@ experience:
     description: Gradient Descent on Neural Networks Typically Occurs at the Edge of Stability. Published as a conference paper at ICLR 2021; Accepted for Poster Presentation at NeurIPS OPT2020 Workshop. Empirically demonstrated that full-batch gradient descent on neural network training objectives typically operates in a regime we call the Edge of Stability. Since the behavior of the train loss Hessian is inconsistent with several widespread presumptions in the field of optimization, our findings raise questions as to whether these presumptions are relevant to neural network training.
 
   - title: Head Teaching assistant for 15281 Artificial Intelligence Representation & Problem Solving
+    company: Carnegie Mellon University
     location: Pittsburgh, PA
     date_start: '2020-01-01'
     date_end: ''
     description: (Head TA since January 2021) lead multiple weekly recitations of 30 students; develop assignments, recitations, and course notes; hold weekly office hours.
  
   - title: Teaching Assistant for 10301/10601 Introduction to Machine Learning (Undergraduate and Gradua    te Level)
+    company: Carnegie Mellon University
     location: Pittsburgh, PA
     date_start: '2020-05-01'
     date_end: '2020-08-01'
