@@ -53,7 +53,7 @@ experience:
     date_end: ''
     description: (Head TA since January 2021) lead multiple weekly recitations of 30 students; develop assignments, recitations, and course notes; hold weekly office hours.
  
-  - title: Teaching Assistant for 10301/10601 Introduction to Machine Learning (Undergraduate and Gradua    te Level)
+  - title: Teaching Assistant for 10301/10601 Introduction to Machine Learning (Undergraduate and Graduate Level)
     company: Carnegie Mellon University
     location: Pittsburgh, PA
     date_start: '2020-05-01'
