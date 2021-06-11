@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Intern
-    company: Abridge INC
+    company: Abridge INC (in collaboration with Carnegie Mellon University)
     company_url: 'https://www.abridge.com/'
     location: Pittsburgh, PA
     date_start: '2021-01-01'
@@ -37,17 +37,10 @@ experience:
     date_start: '2019-05-01'
     date_end: ''
     description: |2-
-      * Are Perceptually-Concordant Adversarial Attacks a General Property of Robust Classifiers? 
-        NeurIPS 2019 Poster Presenter (paper accepted at Science Meets Engineering of Deep Learning Workshop)
-      * Investigated targeted adversarial attacks against a robust classifier trained under randomized smoothing. Our research suggests perceptually-aligned gradients may be a general property of robust classifiers (not just adversarially trained classifiers). Currently investigating the effect of learning rate on generalization ability of models trained via stochastic gradient descent and full-batch gradient descent
+      * Conducted research related to adversarial robustness; workshop paper accepted at NeurIPS 2019; presented at Science Meets Engineering of Deep Learning Workshop 2019
+      * (In collaboration with Locus and SAGE Lab) empirically demonstrated that full-batch gradient descent on neural network training objectives typically operates in a regime that is inconsistent with several widespread presumptions in the field of optimization; conference paper accepted at ICLR 2021 and workshop paper accepted at NeurIPS OPT2020
+      * Currently investigating the role of the train loss Hessian in generalization ability of models trained via stochastic gradient descent and full-batch gradient descent
 
-  - title: Undergraduate Researcher
-    company: ACMI Lab, Carnegie Mellon University (In collaboration with Locus and SAGE Lab)
-    company_url: ''
-    location: Pittsburgh, PA
-    date_start: '2020-06-01'
-    date_end: '2020-08-31'
-    description: Gradient Descent on Neural Networks Typically Occurs at the Edge of Stability. Published as a conference paper at ICLR 2021; Accepted for Poster Presentation at NeurIPS OPT2020 Workshop. Empirically demonstrated that full-batch gradient descent on neural network training objectives typically operates in a regime we call the Edge of Stability. Since the behavior of the train loss Hessian is inconsistent with several widespread presumptions in the field of optimization, our findings raise questions as to whether these presumptions are relevant to neural network training.
 
   - title: Head Teaching Assistant for 15281 Artificial Intelligence Representation & Problem Solving
     company: Carnegie Mellon University
