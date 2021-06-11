@@ -37,8 +37,8 @@ experience:
     date_start: '2019-05-01'
     date_end: ''
     description: |2-
-      * Conducted research related to adversarial robustness; workshop paper accepted at <strong> NeurIPS 2019</strong>; presented at Science Meets Engineering of Deep Learning Workshop 2019
-      * (In collaboration with Locus and SAGE Lab) empirically demonstrated that full-batch gradient descent on neural network training objectives typically operates in a regime that is inconsistent with several widespread presumptions in the field of optimization; conference paper accepted at <strong> ICLR 2021</strong> and workshop paper accepted at <strong> NeurIPS OPT2020</strong>
+      * workshop paper accepted at <strong> NeurIPS 2019</strong>; presented at Science Meets Engineering of Deep Learning Workshop 2019; conducted research related to adversarial robustness; 
+      * (In collaboration with Locus and SAGE Lab) conference paper accepted at <strong> ICLR 2021</strong> and workshop paper accepted at <strong> NeurIPS OPT2020</strong>; empirically demonstrated that full-batch gradient descent on neural network training objectives typically operates in a regime that is inconsistent with several widespread presumptions in the field of optimization
       * Currently investigating the role of the train loss Hessian in generalization ability of models trained via stochastic gradient descent and full-batch gradient descent
 
 
