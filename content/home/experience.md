@@ -28,7 +28,8 @@ experience:
     location: Pittsburgh, PA
     date_start: '2021-01-01'
     date_end: '2021-08-06'
-    description: Implementing model frameworks to run experiments to boost symptom classification performance based on doctor patient transcripts
+    description:|2-
+      * Implementing model frameworks to run experiments to boost symptom classification performance based on doctor patient transcripts
   
   - title: Undergraduate Researcher
     company: ACMI Lab, Carnegie Mellon University
@@ -47,14 +48,17 @@ experience:
     location: Pittsburgh, PA
     date_start: '2020-01-01'
     date_end: ''
-    description: managing course staff of 9 teaching assistants; working directly with professors to maximize student learning; lead multiple weekly recitations of 30 students; develop assignments, recitations, and course notes; hold weekly office hours; head TA since January 2021
+    description: |2-
+      * managing course staff of 9 teaching assistants; working directly with professors to maximize student learning
+      * lead multiple weekly recitations of 30 students; develop assignments, recitations, and course notes; hold weekly office hours; head TA since January 2021
  
   - title: Teaching Assistant for 10301/10601 Introduction to Machine Learning (Undergraduate and Graduate Level)
     company: Carnegie Mellon University
     location: Pittsburgh, PA
     date_start: '2020-05-01'
     date_end: '2020-08-01'
-    description:  led weekly recitations of 30 students; developed assignments and recitations; held weekly office hours
+    description:|2-
+      * led weekly recitations of 30 students; developed assignments and recitations; held weekly office hours
 
 design:
   columns: '2'
