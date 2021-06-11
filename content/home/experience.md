@@ -36,7 +36,8 @@ experience:
     location: Pittsburgh, PA
     date_start: '2019-05-01'
     date_end: ''
-    description: Are Perceptually-Concordant Adversarial Attacks a General Property of Robust Classifiers? NeurIPS 2019 Poster Presenter (paper accepted at Science Meets Engineering of Deep Learning Workshop).Investigated targeted adversarial attacks against a robust classifier trained under randomized smoothing. Our research suggests perceptually-aligned gradients may be a general property of robust classifiers (not just adversarially trained classifiers). Currently investigating the effect of learning rate on generalization ability of models trained via stochastic gradient descent and full-batch gradient descent
+    description: |2-
+      Are Perceptually-Concordant Adversarial Attacks a General Property of Robust Classifiers? NeurIPS 2019 Poster Presenter (paper accepted at Science Meets Engineering of Deep Learning Workshop).Investigated targeted adversarial attacks against a robust classifier trained under randomized smoothing. Our research suggests perceptually-aligned gradients may be a general property of robust classifiers (not just adversarially trained classifiers). Currently investigating the effect of learning rate on generalization ability of models trained via stochastic gradient descent and full-batch gradient descent
 
   - title: Undergraduate Researcher
     company: ACMI Lab, Carnegie Mellon University (In collaboration with Locus and SAGE Lab)
