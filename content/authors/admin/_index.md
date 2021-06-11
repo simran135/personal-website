@@ -55,7 +55,7 @@ email: ""
 highlight_name: true
 ---
 
-I'm a rising Senior at Carnegie Mellon University's School of Computer Science majoring in Artifial Intelligence.  
+I'm a rising Senior at Carnegie Mellon University's School of Computer Science majoring in Artificial Intelligence.  
 
 On campus, I am an undergraduate researcher at [ACMI Lab](https://acmilab.org/people/simran-kaur/) and serve as head teaching assistant for 15-281 Artificial Intelligence Representation & Problem Solving.
 
