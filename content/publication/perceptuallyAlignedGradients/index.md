@@ -5,7 +5,9 @@ title: "Are Perceptually-Aligned Gradients a General Property of Robust Classifi
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Simran Kaur, Jeremy Cohen, Zachary Lipton
+- admin
+- Jeremy Cohen
+- Zachary Lipton
 
 # Author notes (optional)
 
