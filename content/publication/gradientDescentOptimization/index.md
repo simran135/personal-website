@@ -5,7 +5,11 @@ title: "Gradient Descent on Neural Networks Typically Occurs at the Edge of Stab
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Jeremy Cohen, admin, Yuanzhi Li, Zico Kolter, and Ameet Talwalker
+- Jeremy Cohen
+- admin
+- Yuanzhi Li
+- Zico Kolter
+- Ameet Talwalker
 
 # Author notes (optional)
 
