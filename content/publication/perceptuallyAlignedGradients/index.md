@@ -5,7 +5,6 @@ title: "Are Perceptually-Aligned Gradients a General Property of Robust Classifi
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
 - Simran Kaur, Jeremy Cohen, Zachary Lipton
 
 # Author notes (optional)
@@ -22,7 +21,7 @@ doi: ""
 # 7 = Thesis; 8 = Patent
 
 # Publication name and optional abbreviated publication name.
-publication: Neurips 2019 Science Meets Engineering of Deep Learning Workshop, 2019
+publication: NeurIPS 2019 Science Meets Engineering of Deep Learning Workshop, 2019
 
 abstract: For a standard convolutional neural network, optimizing over the input pixels to maximize the score of some target class will generally produce a grainy-looking version of the original image. However, Santurkar et al. (2019) demonstrated that for adversarially-trained neural networks, this optimization produces images that uncannily resemble the target class. In this paper, we show that these "perceptually-aligned gradients" also occur under randomized smoothing, an alternative means of constructing adversarially-robust classifiers. Our finding supports the hypothesis that perceptually-aligned gradients may be a general property of robust classifiers. We hope that our results will inspire research aimed at explaining this link between perceptually-aligned gradients and adversarial robustness.
 
