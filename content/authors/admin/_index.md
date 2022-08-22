@@ -34,6 +34,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
+- icon: cv
+  icon_pack: ai
+  link: uploads/resume.pdf
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=AMHNjTIAAAAJ&hl=en&authuser=2
@@ -42,7 +45,7 @@ social:
   link: https://www.linkedin.com/in/kaur-s  
 - icon: twitter
   icon_pack: fas
-  icon: https://twitter.com/kaur_simran25
+  link: https://twitter.com/kaur_simran25
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
