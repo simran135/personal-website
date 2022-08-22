@@ -67,4 +67,5 @@ I recently completed my BS in [Artificial Intelligence](https://www.cs.cmu.edu/b
 
 In my spare time, I enjoy running, painting, and baking biscotti!
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}
+<!-- {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}
+ -->
