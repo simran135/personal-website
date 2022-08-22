@@ -13,22 +13,6 @@ organizations:
 - name: Princeton University Computer Science Department
   url: https://www.cs.princeton.edu/
 
-# Short bio (displayed in user profile at end of posts)
-
-<!-- # Interests to show in About widget
-interests:
-- Adversarial robustness
-- Optimization
-- Generalization
-- Clinical NLP -->
-
-<!-- # Education to show in About widget
-education:
-  courses:
-  - course: B.S. Artificial Intelligence
-    institution: Carnegie Mellon University
-    year: 2022 -->
-
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
