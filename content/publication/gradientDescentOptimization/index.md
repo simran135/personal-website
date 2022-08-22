@@ -32,7 +32,7 @@ abstract: We empirically demonstrate that full-batch gradient descent on neural 
 
 # Summary. An optional shortened abstract.
 
-tags: [Published as a conference paper at ICLR 2021]
+tags: []
 
 # Display this page in the Featured widget?
 featured: true
