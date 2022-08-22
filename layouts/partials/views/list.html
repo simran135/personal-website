@@ -45,12 +45,6 @@
     {{ partial "page_metadata_authors" $item }}
   </div>
   {{ end }}
-  
-  {{ if $item.Params.date }}
-  <div class="article-metadata-pub">
-    {{ partial "page_metadata_pub" $item }}
-  </div>
-  {{ end }}
 
   {{ if $has_attachments }}
   <div class="btn-links">
