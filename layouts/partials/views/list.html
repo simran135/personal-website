@@ -48,7 +48,7 @@
   
   {{ if $item.Params.publication }}
   <div class="article-metadata-pub">
-    {{ partial "page_metadata_pub" $item }}
+    {{ $item.Params.publication }}
   </div>
   {{ end }}
 
