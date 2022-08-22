@@ -29,6 +29,7 @@ abstract: For a standard convolutional neural network, optimizing over the input
 
 
 # Summary. An optional shortened abstract.
+summary: 
 
 tags: []
 
