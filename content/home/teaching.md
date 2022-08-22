@@ -27,7 +27,7 @@ experience:
     location: Pittsburgh, PA
     date_start: '2020-01-01'
     date_end: '2022-05-01'
-    description: head TA from January 2021 - May 2022
+    description: - head TA from January 2021 - May 2022
  
   - title: Teaching Assistant for 10301/10601 Introduction to Machine Learning (Undergraduate and Graduate Level)
     company: Carnegie Mellon University
