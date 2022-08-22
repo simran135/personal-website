@@ -6,16 +6,16 @@ title: Simran Kaur
 superuser: true
 
 # Role/position/tagline
-role: Bachelor of Science in Artificial Intelligence (May 2022)
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Carnegie Mellon University School of Computer Science
-  url: https://https://www.cs.cmu.edu/
+- name: Princeton University Computer Science Department
+  url: https://www.cs.princeton.edu/
 
 # Short bio (displayed in user profile at end of posts)
 
-# Interests to show in About widget
+<!-- # Interests to show in About widget
 interests:
 - Adversarial robustness
 - Optimization
@@ -27,7 +27,7 @@ education:
   courses:
   - course: B.S. Artificial Intelligence
     institution: Carnegie Mellon University
-    year: 2022
+    year: 2022 -->
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
