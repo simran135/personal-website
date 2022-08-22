@@ -44,7 +44,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/kaur-s  
 - icon: twitter
-  icon_pack: fas
+  icon_pack: fab
   link: https://twitter.com/kaur_simran25
 
 # Link to a PDF of your resume/CV.
