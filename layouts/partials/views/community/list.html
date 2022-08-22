@@ -24,7 +24,3 @@
 
 {{ $has_attachments := partial "functions/has_attachments" $item }}
 
-<div class="view-list view-list-item">
-  <i class="{{$icon_pack}} {{$icon}} pub-icon" aria-hidden="true"></i>
-  <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
-</div>
