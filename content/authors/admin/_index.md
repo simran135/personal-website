@@ -45,7 +45,7 @@ email: ""
 highlight_name: true
 ---
 
-I am a first year PhD student in the [CS department](https://www.cs.princeton.edu/) at Princeton University, where I am fortunate to be advised by Professor [Sanjeev Arora](https://www.cs.princeton.edu/~arora/). I am broadly interested in the theoretical and empirical foundations of machine learning.
+I am a second year PhD student in the [CS department](https://www.cs.princeton.edu/) at Princeton University, where I am fortunate to be advised by Professor [Sanjeev Arora](https://www.cs.princeton.edu/~arora/). I am broadly interested in the theoretical and empirical foundations of machine learning.
 
 Previously, I completed my BS in [Artificial Intelligence](https://www.cs.cmu.edu/bs-in-artificial-intelligence/) at [Carnegie Mellon University's School of Computer Science](https://www.cs.cmu.edu/), where I was advised by Professor [Zachary Lipton](https://www.zacharylipton.com/) in the [ACMI Lab](https://acmilab.org/people/simran-kaur/).
 
