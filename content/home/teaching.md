@@ -22,6 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Teaching Assistant for COS 324 Introduction to Machine Learning 
+    company: Princeton University
+    location: Princeton, NJ
+    date_start: '2024-01-01'
+    date_end: '2024-06-01'
+    description:
+    
+  - title: Teaching Assistant for COS 324 Introduction to Machine Learning (JRW) 
+    company: Princeton University
+    location: Princeton, NJ
+    date_start: '2023-09-01'
+    date_end: '2024-01-01'
+    description:
+    
   - title: Teaching Assistant for 15281 Artificial Intelligence Representation & Problem Solving
     company: Carnegie Mellon University
     location: Pittsburgh, PA
