@@ -45,6 +45,8 @@ links:
    url: https://arxiv.org/abs/2310.17567
  - name: demo
    url: https://huggingface.co/spaces/dingliyu/skillmix
+ - name: blog post
+   url: https://pli.princeton.edu/blog/2023/are-language-models-mere-stochastic-parrots-skillmix-test-says-no 
 
 url_pdf: ''
 url_code: ''
