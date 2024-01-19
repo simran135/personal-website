@@ -40,8 +40,6 @@ featured: true
 # Custom links (uncomment lines below)
 links:
  - name: pdf
-   url: https://arxiv.org/pdf/2103.00065.pdf
- - name: arXiv
    url: https://arxiv.org/abs/2103.00065 
 
 url_pdf: ''
