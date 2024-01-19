@@ -25,23 +25,16 @@ experience:
   - title: Teaching Assistant for COS 324 Introduction to Machine Learning 
     company: Princeton University
     location: Princeton, NJ
-    date_start: '2024-01-01'
-    date_end: '2024-06-01'
-    description:
-    
-  - title: Teaching Assistant for COS 324 Introduction to Machine Learning (JRW) 
-    company: Princeton University
-    location: Princeton, NJ
     date_start: '2023-09-01'
-    date_end: '2024-01-01'
-    description:
+    date_end: '2024-06-01'
+    description: JRW (Junior Research Workshop) TA for Fall 2023.
     
   - title: Teaching Assistant for 15281 Artificial Intelligence Representation & Problem Solving
     company: Carnegie Mellon University
     location: Pittsburgh, PA
     date_start: '2020-01-01'
     date_end: '2022-05-01'
-    description: Head TA from January 2021 - May 2022
+    description: Head TA for Spring 2021, Fall 2021, and Spring 2022.
  
   - title: Teaching Assistant for 10301/10601 Introduction to Machine Learning (Undergraduate and Graduate Level)
     company: Carnegie Mellon University
