@@ -26,7 +26,7 @@ doi: ""
 
 # Publication name and optional abbreviated publication name.
 publication: ICLR 2021 & NeurIPS Workshop on Optimization for Machine Learning 2020
-publication_short: ICLR 2021
+publication_short: ICLR 2021. NeurIPS OPTML Workshop 2020
 
 abstract: We empirically demonstrate that full-batch gradient descent on neural network training objectives typically operates in a regime we call the Edge of Stability. In this regime, the maximum eigenvalue of the training loss Hessian hovers just above the numerical value 2/(step size), and the training loss behaves non-monotonically over short timescales, yet consistently decreases over long timescales. Since this behavior is inconsistent with several widespread presumptions in the field of optimization, our findings raise questions as to whether these presumptions are relevant to neural network training. We hope that our findings will inspire future efforts aimed at rigorously understanding optimization at the Edge of Stability.
 
