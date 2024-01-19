@@ -42,8 +42,8 @@ featured: true
 links:
  - name: pdf
    url: https://arxiv.org/abs/2310.17567
-- name: demo
-  url: https://huggingface.co/spaces/dingliyu/skillmix
+ - name: demo
+   url: https://huggingface.co/spaces/dingliyu/skillmix
 
 url_pdf: ''
 url_code: ''
