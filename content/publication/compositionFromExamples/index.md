@@ -28,7 +28,7 @@ doi: ""
 publication: NeurIPS 2024. 
 publication_short: NeurIPS 2024.
 
-abstract: As large language models (LLMs) become increasingly advanced, their ability to exhibit compositional generalization 
+abstract: As large language models (LLMs) become increasingly advanced, their ability to exhibit compositional generalization -- the capacity to combine learned skills in novel ways not encountered during training 
 
 # Summary. An optional shortened abstract.
 summary: ' '
