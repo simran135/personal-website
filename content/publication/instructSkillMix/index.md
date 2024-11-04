@@ -1,5 +1,5 @@
 ---
-title: "Instruct-SkillMix -- A Powerful Pipeline for LLM Instruction Tuning"
+title: "Instruct-SkillMix: A Powerful Pipeline for LLM Instruction Tuning"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
