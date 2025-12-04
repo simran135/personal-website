@@ -25,8 +25,8 @@ doi: ""
 # 7 = Thesis; 8 = Patent
 
 # Publication name and optional abbreviated publication name.
-publication: \[Spotlight\] Efficient Reasoning Workshop at NeurIPS 2025. In MATH-AI Workshop at NeurIPS 2025.
-publication_short: \[Spotlight\] Efficient Reasoning Workshop at NeurIPS 2025.
+publication: \[Spotlight\] Efficient Reasoning Workshop at NeurIPS 2025. In MATH-AI Workshop at NeurIPS 2025
+publication_short: \[Spotlight\] Efficient Reasoning Workshop at NeurIPS 2025
 
 abstract: While reinforcement learning (RL) successfully enhances reasoning in large language models, its role in fostering compositional generalization (the ability to synthesize novel skills from known components) is often conflated with mere length generalization. To this end, we study what RL post-training teaches about skill composition and how the structure of the composition affects the skill transfer. We focus on the Countdown task (given n numbers and a target, form an expression that evaluates to the target) and analyze model solutions as expression trees, where each subtree corresponds to a reusable subtask and thus can be viewed as a ``skill.'' Tracking tree shapes and their success rates over training, we find: (i) out-of-distribution (OOD) generalization to larger n and to unseen tree shapes, indicating compositional reuse of subtasks; (ii) a structure-dependent hierarchy of learnability -- models master shallow balanced trees (workload is balanced between subtasks) before deep unbalanced ones, with persistent fragility on right-heavy structures (even when the composition depth is the same as some left-heavy structures). Our diagnostic reveals what is learned, in what order, and where generalization fails, clarifying how RL-only post-training induces OOD generalization beyond what standard metrics such as pass@k reveal.
 
