@@ -41,7 +41,7 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
- - name: pdf
+ - name: arXiv
    url: https://arxiv.org/abs/2310.17567
  - name: demo
    url: https://huggingface.co/spaces/dingliyu/skillmix
