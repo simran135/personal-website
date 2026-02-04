@@ -45,7 +45,7 @@ highlight_name: true
 
 I am a PhD Candidate in the [CS department](https://www.cs.princeton.edu/) at Princeton University, where I am fortunate to be advised by Professor [Sanjeev Arora](https://www.cs.princeton.edu/~arora/). I am also a member of [Princeton Language and Intelligence](https://pli.princeton.edu/). Previously, I completed my BS in [Artificial Intelligence](https://www.cs.cmu.edu/bs-in-artificial-intelligence/) at [Carnegie Mellon University's School of Computer Science](https://www.cs.cmu.edu/), where I was advised by Professor [Zachary Lipton](https://www.zacharylipton.com/) in the [ACMI Lab](https://acmilab.org/people/simran-kaur/).
 
-My research focuses on conceptually understanding frontier AI models and using this understanding to improve their capabilities. These days, I’m particularly interested in synthetic data, distillation, and post-training pipelines for strengthening compositional and long-horizon reasoning in large language models.
+My research focuses on conceptually understanding frontier AI models and using this understanding to improve their capabilities. These days, I’m particularly interested in post-training pipelines (including synthetic data and distillation) to advance LLM capabilities in reasoning and open-endedness, self-improvement, and compositional generalization.
 
 In my spare time, I enjoy running, painting, and baking biscotti!
 
