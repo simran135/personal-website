@@ -1,0 +1,31 @@
+{{ $has_attachments := partial "functions/has_attachments" . }}
+
+<div class="pub-list-item pub-list-item-stacked">
+  <div class="pub-title">
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+  </div>
+
+  <div class="article-metadata li-cite-author pub-authors">
+    {{ partial "page_metadata_authors" . }}
+  </div>
+
+  <div class="pub-venues">
+    {{ with .Params.venues }}
+      {{ range . }}
+        <div class="pub-venue">
+          <span class="pub-venue-name">{{ .name | markdownify }}</span>{{ with .distinction }} <span class="pub-distinction">({{ . }})</span>{{ end }}
+        </div>
+      {{ end }}
+    {{ else }}
+      <div class="pub-venue">
+        {{ with .Params.publication_short }}{{ . | markdownify }}{{ else }}{{ .Params.publication | markdownify }}{{ end }}
+      </div>
+    {{ end }}
+  </div>
+
+  {{ if $has_attachments }}
+    <div class="btn-links pub-links">
+      {{ partial "page_links" (dict "page" . "is_list" 1) }}
+    </div>
+  {{ end }}
+</div>
