@@ -2,7 +2,11 @@
 
 <div class="pub-list-item pub-list-item-stacked">
   <div class="pub-title">
-    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    {{ with .Params.arxiv_url }}
+      <a href="{{ . }}" target="_blank" rel="noopener">{{ $.Title }}</a>
+    {{ else }}
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    {{ end }}
   </div>
 
   <div class="article-metadata li-cite-author pub-authors">

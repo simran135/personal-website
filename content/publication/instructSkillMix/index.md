@@ -42,9 +42,7 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-links:
- - name: arXiv
-   url: https://arxiv.org/abs/2408.14774
+arxiv_url: https://arxiv.org/abs/2408.14774
 
 url_pdf: ''
 url_code: ''

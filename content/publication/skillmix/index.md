@@ -44,15 +44,14 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
- - name: arXiv
-   url: https://arxiv.org/abs/2310.17567
  - name: demo
    url: https://huggingface.co/spaces/dingliyu/skillmix
  - name: PLI blog post
    url: https://pli.princeton.edu/blog/2023/are-language-models-mere-stochastic-parrots-skillmix-test-says-no
  - name: Quanta Magazine Article
    url: https://www.quantamagazine.org/new-theory-suggests-chatbots-can-understand-text-20240122/
-  
+
+arxiv_url: https://arxiv.org/abs/2310.17567
 
 url_pdf: ''
 url_code: ''
