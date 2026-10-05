@@ -45,7 +45,7 @@ featured: true
 # Custom links (uncomment lines below)
 arxiv_url: https://arxiv.org/abs/2607.05184
 links:
- - name: Self-Distillation Wiki
+ - name: alphaXiv
    url: https://www.alphaxiv.org/wiki/self-distillation
 
 url_pdf: ''
