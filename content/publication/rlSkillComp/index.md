@@ -8,7 +8,6 @@ title: "How Does RL Post-training Induce Skill Composition? A Case Study on Coun
 authors:
 - Simon Park*
 - simran-kaur-asterisk
-- Anirudh Goyal
 - Sanjeev Arora
 
 # Author notes (optional)
